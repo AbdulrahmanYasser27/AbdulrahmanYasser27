@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I'm Abdulrahman, a software engineer with a passion for developing innovative and user-friendly software solutions.<br>You can email me at abdulrahmanyasser67@gmail.com
+Junior DevOps and Cloud Engineer based in Egypt, with a strong passion for building reliable infrastructure and automating processes. Experienced in AWS, Docker, Kubernetes, Terraform, Ansible, and CI/CD pipelines using GitHub Actions and Jenkins. Currently seeking junior-level opportunities in DevOps or Cloud engineering.<br>You can email me at abdulrahmanyasser67@gmail.com
 
 
 ## Socials:
@@ -15,9 +15,6 @@ Hi there! I'm Abdulrahman, a software engineer with a passion for developing inn
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/openshift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white) ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Minikube](https://img.shields.io/badge/minikube-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Databases**
 
