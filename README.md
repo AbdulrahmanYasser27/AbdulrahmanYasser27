@@ -1,66 +1,82 @@
-# Abdulrahman Yasser  
-### Junior DevOps & Cloud Engineer  
+<div align="center">
 
-Location: Egypt  
-Email: abdulrahmanyasser67@gmail.com  
-LinkedIn: https://www.linkedin.com/in/abdulrahman-yasser21/  
+# Hi there, I'm Abdulrahman Yasser
 
----
+### Junior DevOps & Cloud Engineer
 
-## About Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-yasser21/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanyasser67@yahoo.com)
 
-Junior DevOps and Cloud Engineer with a strong interest in building reliable infrastructure and automating workflows. Experienced in working with modern cloud and DevOps tools to design scalable and efficient systems.  
-
-Skilled in AWS, Docker, Kubernetes, Terraform, Ansible, and CI/CD pipelines using GitHub Actions and Jenkins. Currently seeking junior-level opportunities in DevOps or Cloud Engineering.  
+</div>
 
 ---
 
-## Tech Stack  
+## About Me
+
+Junior DevOps & Cloud Engineer based in Egypt with a strong focus on building scalable infrastructure and automating workflows.
+
+I work with cloud-native technologies and modern DevOps practices to design, deploy, and manage applications efficiently.
+
+- Experience with AWS, Docker, Kubernetes  
+- Infrastructure as Code using Terraform & Ansible  
+- CI/CD pipelines with GitHub Actions and Jenkins  
+- Background in software engineering (Java, Python, JavaScript)  
+
+Currently seeking junior DevOps / Cloud Engineering opportunities.
+
+---
+
+## Tech Stack
 
 **Cloud & DevOps**  
-AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, OpenShift, Podman  
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **Programming & Scripting**  
-Python, Java, JavaScript, Bash, SQL  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frameworks & Tools**  
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Databases**  
-MySQL, PostgreSQL, Redis  
 
-**Tools & Systems**  
-Git, GitHub, Linux, Minikube  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 
----
 
-## Featured Projects  
+## GitHub Stats
 
-### CloudStack — Microservices Web Application  
-Full-stack microservices application with a Python backend and JavaScript frontend. Containerized using Docker, orchestrated with Docker Compose, provisioned using Ansible, and deployed through a GitLab CI/CD pipeline.  
+<div align="center">
 
-Technologies: Docker, Docker Compose, Ansible, GitLab CI, Python, JavaScript  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanYasser27&theme=dark&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdulrahmanYasser27&theme=dark&hide_border=true)
 
-### Solar System — Kubernetes Deployment on AWS EKS  
-Node.js application deployed on AWS EKS using Terraform for infrastructure provisioning, Kubernetes for orchestration, Docker for containerization, and GitHub Actions for CI/CD automation. Each push to the main branch triggers a full build and deployment pipeline.  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanYasser27&layout=compact&theme=dark&hide_border=true)
 
-Technologies: AWS EKS, Terraform, Kubernetes, Docker, GitHub Actions, Node.js  
+</div>
 
 ---
 
-## GitHub Stats  
+## Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanYasser27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+If you are hiring or would like to collaborate, feel free to reach out.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanYasser27&theme=dark&hide_border=false)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanYasser27&theme=dark&hide_border=false&layout=compact)  
-
----
-
-## Contact  
-
-If you are hiring or would like to collaborate, feel free to reach out.  
-
-Email: abdulrahmanyasser67@gmail.com  
-LinkedIn: https://www.linkedin.com/in/abdulrahman-yasser21/  
----
+Email: abdulrahmanyasser67@yahoo.com  
+LinkedIn: https://www.linkedin.com/in/abdulrahman-yasser21/
