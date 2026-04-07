@@ -64,11 +64,10 @@ Currently seeking junior DevOps / Cloud Engineering opportunities.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanYasser27&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbdulrahmanYasser27&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanYasser27&layout=compact&theme=dark&hide_border=true)
+
 
 </div>
 
