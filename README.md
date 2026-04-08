@@ -5,7 +5,7 @@
 ### Junior DevOps & Cloud Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-yasser21/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanyasser67@yahoo.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanyasser67@gmail.com)
 
 </div>
 
@@ -77,5 +77,5 @@ Currently seeking junior DevOps / Cloud Engineering opportunities.
 
 If you are hiring or would like to collaborate, feel free to reach out.
 
-Email: abdulrahmanyasser67@yahoo.com  
-LinkedIn: https://www.linkedin.com/in/abdulrahman-yasser21/
+Email: abdulrahmanyasser67@gmail.com  
+
